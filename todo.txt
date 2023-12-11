@@ -1,0 +1,4 @@
+
+add table of tags
+add register functionality
+people can only like once, and delete their own comments / posts
